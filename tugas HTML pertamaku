@@ -1,0 +1,66 @@
+<html>
+    <head>
+       <title>-nama dan nim</title>
+   </head>
+   <body>
+       <h1>Introduce myself</h1>
+       <p>Hallo!!</p>
+	<p>Kenalin Aku -nama panjang- biasa dipanggil April, Aku mahasiswa Informatika Universitas -nama univ- semester 3 dengan NIM -nim-. 
+Aku berasal dari kalimantan barat lebih tepatnya di -nama daerah-, aku anak kedua dari dua bersaudara. Aku Lahir pada tanggal -tgl-, sekarang aku sudah berumur -umur- tahun dan aku berzodiak taurus. Aku mempunyai Hobi bermain gitar. Sebenarnya aku tidak terlalu tertarik dengan informatika, tapi apalah daya ketolak fakultas sebelah, Aku punya satu teman yang sangat baik dan cantik, dia juga pandai memasak. Dia tidak sekelas denganku di semester 3 ini, aku sangat sedih berpisah dengannya. Sorry jadi oot gini hehe, oh iya aku punya artis favorit yaitu hindia, tapi akhir-akhir ini aku lagi suka dengerin lagu-lagu dari sal priadi sama Sheila on 7. Lucky me! aku udah pernah nonton sal priadi sama hindia live lohhh, sekali lagi "LIVE" hehehe. Aku liat mereka waktu konser crsl tahun ini di lapangan kenari. Btw aku suka banget sama yang namanya buah, apalagi buah mangga. Rasanya enakkkkk banget, suka heran sama orang yang gasuka buah tuh kenapa ya??? Aku juga suka banget tidur, tidur tuh hal yang paling berharga di sela libur atau jam kosong. Kayaknya tanpa tidur aku gabisa apa-apa deh:( (alay dikit). OHHH SATU LAGIII, aku suka bangetttt dan cinta bangettttt sama elzharddd.  karna dia super duper gemoyy, dia jadi moodbooster aku kalo aku lagi bad mood atau waktu gabut. Oke mungkin segitu aja yang bisa aku sampain, makasih ya udah mau kenalan sama akuu. Bye-bye guyssss, wopyuuu<3 </p>
+
+<p>
+<img src="Foto1.jpg" alt="foto1" width="400" height="500">
+<img src="Foto2.jpg" alt="foto2" width="400" height="500">
+<img src="Foto3.jpg" alt="foto3" width="400" height="500">
+</p>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Riwayat Sekolah</h2>
+
+<table style="width:50%">
+  <tr>
+    <th>No</th>
+    <th>Nama Sekolah</th>
+    <th>Tahun</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>TK </td>
+    <td>2012 - 2013</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>SDN 01</td>
+    <td>2013 - 2018</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>SMPN 01 </td>
+    <td>2018 - 2021</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>SMAN 01 </td>
+    <td>2021 - 2024</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Universitas -nama univ- </td>
+    <td>2024 - Sekarang</td>
+  </tr>
+</table>
+
+<p>Instram aku NIH
+<a -link ig- DIFOLLOWWW JANGAN DILIAT AJA!!!
+</p>
+ 
+
+   </body>
+
+</html>
